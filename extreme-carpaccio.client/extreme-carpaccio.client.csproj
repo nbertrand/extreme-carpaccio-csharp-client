@@ -53,6 +53,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BillCalculator.cs" />
     <Compile Include="Bootstrapper.cs" />
     <Compile Include="Feedback.cs" />
     <Compile Include="IndexModule.cs" />
